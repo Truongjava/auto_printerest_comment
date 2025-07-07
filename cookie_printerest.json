@@ -1,0 +1,93 @@
+[
+    {
+        "domain": "www.pinterest.com",
+        "expirationDate": 1783390874.507187,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "csrftoken",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "c79515ba084eebe8265e8c9a9f4147b7"
+    },
+    {
+        "domain": ".pinterest.com",
+        "expirationDate": 1755961304.092182,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_pinterest_cm",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "\"TWc9PSZvOGQzd0dLMDA4TFlkZEVkRFN5WUFIV3NWZWNaS2ZOaFphdE5kdVZvSEN2QlV4VU9PcjhnTjRKSGo3d2Vwb2dmRlZhTnMvTnJzWFg0a0U5S1lOSzBvSWlaK1ZUOTNHb1h4RmRxOVBvQVRCREJSbnB2SzVjUkM4bzZxVzVnL3R6blF1ZmptYUhvMmVDSW9mbWJMaENpODZsczV4SFVDc3dPeG5HaUQ5RzRkRm1KUE5EZllsUzJ3ZTRPM0ovVk9hQ3cmL1JxUjFDVnIwU1crZU90eVJUMXl2QzRweFNNPQ==\""
+    },
+    {
+        "domain": ".pinterest.com",
+        "expirationDate": 1782958984.56793,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "_pinterest_sess",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "TWc9PSYwL0s3emxPSmFjYUNyY2NEdXhVYURoaW5iTytPWU1yd21oR1FVVWh3d1ZLRGszUWg5U0VPR3RTWWJnMlZXQ3VYY29SUHl0OEhyUDArZHQzVE9SWFhmRVYwdk1ETkh3b3Z1dWk2NUI2bUFMM2p6RWIxWGtGZGs5bHhPL0M1OHZJZGVTekpHd083SjNoZFR1RTAwNVFuTmMxelZKaWlrQXpPNXJ5MWJMcVF0bEx1ZXhKL25YOVY1VHI5TzVKLytxakNnVXBVTlNadjZHWWVQczk1VXUzZXNxVlltOFBlV3hlRFhUbWs4clRIZ2JiRE9uQ2ZkNUJpQU1yaTFXSjk2aS9sSkFjczUxaTBDZFNPdXhhVW0wc3Vlcko1RDJ2bThyWmkvbDJJTldSZU1YT2pXV1k1NVgyQWkyV3ZhVnVtZS9YUmQ1M1hEakNyYUZjM2poQTNvaUdrcUFyVEk4QW41azVEYlBrTjlPRzFqc21WQ0JDOE5iT0NsTTRlR2cvZ1oyQkdqdlBKaGtCQ29uYVkrYmdOeEVqYUlHMFVkeUJuVHEzK3U5ck1HRTNldkJUWWJKTHBzc2dHWXZndDhBem1nRUdqZ1pxSzlkc3dBaGh0NUZwN3ZwNVpJcllhbkpGNnlkV1R2ZWVGbXp4Rm5mMTF6T2JMYkh5djEwc2h4QlVlZjZHZXcyazVWN2xPK25WQWdwQmdWZ0Jkak9Gakx5Wmo2cnhkOXpHSmRGVGxKVm5iQnVZOEtSbE5qUEJNWWJ2cSs1WG1WdUpMakxFK2d1eS9pL0tYR2N1K2padG5VUFdiVTdVa3Z2U05BdFlJdE1JUGRKeXh2UzJKTkJkM3hSQ3ZXNUh3dkJSVGhKSWtWVG5ZRldSN051Z3llV0VkWGUzZXdET05NU2lJKzZvY2tXUnpSQkY4RGxwbVV0bkVCR2V3VTdsQ2h0WHB2SER1S2dEUDZWQmVvRmx0OVdMUTlsUUlXOWJEbGdubHZES0hXbU12aWpJZ1I4bGZyalE3WGlkUUVzcCtrdHRRMmJaTVFpT0F0MHJmTTkxQnkyemNORXlaQmVqZHRWRlNlT1pETjBHUGYzeEVlNEd2QmhkSEN6UVV5cVROanl1OXVBTVFTTm1IcGZJZ3dwL2RMVk5rWW1Zd0p2ZEs4djhRUm02NGhHbEtpS1VXTTF4bVVvbmtaVGNNUFFKaVZFaEdTUVcxVjNRdlRiV0Z3UjdRdTlDNXhHcmN4a2FOZGRMb28rMjlZdHdwVCtHR3JwOWJhWVhabEJ2SkdHaWhGN3gyNFpOMGsxTjRQcHJyUys1VkxtclZSaHVYVFZmV3lqQ0tHVjUybVlCUCtSSFBTWHRud0JDSG5XRWlSRlE0OE4zd2xUbnh0ZEpjNTJ3OTVrSTBVbE9icUcwVkVCU3NMZExiOGl4cHNDcDJpRjFHeXh5S0FBZW9RZytNdW5OaUR2L09CbVBGdjhWZHNSR1F2V3dSUDFhYnBpMHJJbklRWFJ5bEtBU1NWbzFMaGlackdFNkdlRUU3Tzd6TENzNEQ5UFZtS2hKd0QzQzlJZnJ3QXhIbTB5VjZIWW1FYXNacjBDdFFwbmdDWHRlNEYxbEN3c2NwK3FQaVF6WnZxR2FteUpVM0NFTERUaU05a0t5WkV4MTZKMjU2UEJJcm5ISzBCMzdVdTgycEwvR0sycEg0VE1VRFNTY0U3SU5OSmpVUVhUZVY0MjFoYTY3SkZaM2xMMkJCQXdBRzZIeC83SEtBOFJDYUw2YmxZb2h3SVg1OE1XbmQ5WkJQS0I5SU9SQW4mYW9jTEpVaG5Jb0dzUm1SUkNkWENXWVRJeEdnPQ=="
+    },
+    {
+        "domain": ".pinterest.com",
+        "expirationDate": 1782958984.568053,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__Secure-s_a",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "bmVNNjNBS1VnVktmU3V5dmx3aDJnQUJzOGNGUFZMQWdOdll5WDRDWVhhYkxzNElTREFsMCtFdFpSMEhJQjlpN0tYTFFwOFJ3cHcxVVRiaHRuOC9mOUJIc0dKREQzK2UyTCt5NmRvRVNuRHI2QitZeThDNEdDVDdZLytCbDZ0cVl1aGlWdXRuWktxTCtoaFZEUjVpRnNVZnBmcXUzMmljSituUVpscmR3bUVaQXlsM0JLa1BieUtMZ2xGRXZLZ2ZHbE8zVURMWEd2Q0dqajZ2TGljY1kzazJHcWo0VXIwa0N1R24zaUpYOG8rM0RGYWh1SmtHK3ppalRXM0JGSEJZcHZYQkUvRzZKUjd1akpINk1IT2o2R3NCQ2NsczVHVldYYUY0UWlzWUhGNVhsNW0rZXhuenRRSEZJNnNWQWdWS3VSU2ZJczFueUtFV3B3MUljaTMvYko0bVQ4dlprZDhPS25DcEFVQzRydFRwSzVmK1F5Q1BramNSeWwza3BmOXMvaFI0d3hKdGRtbjJINlNiSlhqVU42YW1QYXpxbmV6RFEvSzYyakdPSm9kS2pydGl0RWdtNHVieEFscTZ2QmVQMk9RRHVvc29pSHh0SjNFL1BOeWt0NWd0aVBBcGxMU0djOTlIV2laK05IVGxmcjk2K3p6TEdyOEFjaWYvVEM2NDFwbURoNDVrUHQyL3k0b2pCdzl4SmtpOVpxSkFCZ0RIODVjNUc0ckF6OWRwNEZKK25zVy9uZDdhRkRaNk1GSUJQUDZ3V0FSMjR5L0VucmU5blFLL3ZVNGo2dGRNMDh1cUxCT2x3UTU2TzdoMjFoSGYrcFR6Um5VL3E0dytKdWQxbzMwUXo1WEhjVXR5cGFOOEl3S0EzRmlKUFQxaUZISnpsTHRkVUpNZmlqVkdDTXEzVFhLR2VkNGhBaEJxTE9sTzd3dDBwU1FSbUtmbXRNRVlEQUxRQzQ0eEFkL1FRN3hTYm4zSCtjOXQvWVIxMEZPdjJKN0k3Q091bW9JZWdCSUZjWWlMU0twYm1hZVVYU3RzcDA0cUhoempLUWZFeWJWRnp5dFVRRzNiRkRpTzJNY1I2aXBuWjFOWUJNVEVDQ0psZGdQcFpDL01PM3dEbGhEdW1uRzhOZUxJQ01Cd21HU0xicERnMUZtd09CYnU5ZFlOV0p1UFoxdyt5VVhyM25jeWJqY3YxR0dNOFJ3OWV5R1JueTFDaXFSNk4xcDVvdmpIZktnakFVTjcwcThVTHF1Q250dVY4Y21taW9QZktDckNhaEx5QWl3V0k4a2tmRlpndktCUUtOSmExMUQyMnh6bTZHR1B6aG5aY3kvYz0mZVBTb3RnQW5vaVJtTUxvRUZKckhVQzBuTkgwPQ=="
+    },
+    {
+        "domain": ".pinterest.com",
+        "expirationDate": 1782958984.567774,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "_auth",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".pinterest.com",
+        "expirationDate": 1776172111.953975,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ar_debug",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": "www.pinterest.com",
+        "expirationDate": 1751898077,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "sessionFunnelEventLogged",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    }
+]

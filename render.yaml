@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: pinterest-crawler
+    runtime: python
+    env: python
+    region: singapore
+    buildCommand: bash .render/build.sh
+    startCommand: uvicorn main:app --host 0.0.0.0 --port 10000
+    plan: free
+    autoDeploy: true
