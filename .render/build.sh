@@ -6,3 +6,4 @@ pip install -r requirements.txt
 
 # Tải trình duyệt Chromium
 playwright install chromium
+ls -la ~/.cache/ms-playwright
